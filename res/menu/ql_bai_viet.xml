@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_qlBV_toHome" android:title="Quay về trang chính"></item>
+
+</menu>

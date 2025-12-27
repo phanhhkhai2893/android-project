@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_main_qlND" android:title="QL Người Dùng"></item>
+    <item android:id="@+id/menu_main_qlBV" android:title="QL Bài Viết"></item>
+    <item android:id="@+id/menu_main_qlPL" android:title="QL Thẻ Phân Loại"></item>
+    <item android:id="@+id/menu_main_qlBL" android:title="QL Bình Luận"></item>
+
+</menu>

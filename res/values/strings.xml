@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DDCN</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_xem_nguoidung">Xem_nguoidung</string>
+    <string name="title_activity_them_nguoidung">Them_nguoidung</string>
+    <string name="title_activity_sua_nguoidung">Sua_nguoidung</string>
+    <string name="title_activity_xem_bai_viet">Xem_baiViet</string>
+    <string name="title_activity_ql_nguoi_dung">QL_nguoiDung</string>
+    <string name="title_activity_ql_bai_viet">QL_baiViet</string>
+    <string name="title_activity_them_bai_viet">Them_baiViet</string>
+    <string name="title_activity_sua_bai_viet">Sua_baiViet</string>
+    <string name="title_activity_ql_the_pl">QL_thePL</string>
+    <string name="title_activity_xem_the_pl">Xem_thePL</string>
+    <string name="title_activity_sua_the_pl">Sua_thePL</string>
+    <string name="title_activity_them_the_pl">Them_thePL</string>
+    <string name="title_activity_xem_binh_luan">Xem_binhLuan</string>
+    <string name="title_activity_ql_binh_luan">QL_binhLuan</string>
+    <string name="title_activity_them_binh_luan">Them_binhLuan</string>
+    <string name="title_activity_sua_binh_luan">Sua_binhLuan</string>
+    <string name="title_activity_dang_nhap">DangNhap</string>
+    <string name="title_activity_main__thanh_vien">Main_ThanhVien</string>
+    <string name="title_activity_dang_ky">DangKy</string>
+    <string name="title_activity_thanh_vien_viet_bai">ThanhVien_vietBai</string>
+    <string name="title_activity_thanh_vien_ql_bai">ThanhVien_qlBai</string>
+    <string name="title_activity_thanh_vien_tai_khoan">ThanhVien_taiKhoan</string>
+    <string name="title_activity_thanh_vien__chi_tiet_bai_viet">ThanhVien_ChiTietBaiViet</string>
+    <string name="title_activity_thanh_vien__sua_bai_viet">ThanhVien_Sua_baiViet</string>
+    <string name="title_activity_thanh_vien__sua_binh_luan">ThanhVien_Sua_binhLuan</string>
+
+</resources>

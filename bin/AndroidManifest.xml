@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ddcn"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ddcn.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Xem_nguoidung"
+            android:label="@string/title_activity_xem_nguoidung" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Them_nguoidung"
+            android:label="@string/title_activity_them_nguoidung" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Sua_nguoidung"
+            android:label="@string/title_activity_sua_nguoidung" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Xem_baiViet"
+            android:label="@string/title_activity_xem_bai_viet" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.QL_nguoiDung"
+            android:label="@string/title_activity_ql_nguoi_dung" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.QL_baiViet"
+            android:label="@string/title_activity_ql_bai_viet" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Them_baiViet"
+            android:label="@string/title_activity_them_bai_viet" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Sua_baiViet"
+            android:label="@string/title_activity_sua_bai_viet" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.QL_thePL"
+            android:label="@string/title_activity_ql_the_pl" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Xem_thePL"
+            android:label="@string/title_activity_xem_the_pl" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Sua_thePL"
+            android:label="@string/title_activity_sua_the_pl" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Them_thePL"
+            android:label="@string/title_activity_them_the_pl" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Xem_binhLuan"
+            android:label="@string/title_activity_xem_binh_luan" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.QL_binhLuan"
+            android:label="@string/title_activity_ql_binh_luan" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Them_binhLuan"
+            android:label="@string/title_activity_them_binh_luan" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Sua_binhLuan"
+            android:label="@string/title_activity_sua_binh_luan" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.DangNhap"
+            android:label="@string/title_activity_dang_nhap" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.Main_ThanhVien"
+            android:label="@string/title_activity_main__thanh_vien" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.DangKy"
+            android:label="@string/title_activity_dang_ky" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.ThanhVien_vietBai"
+            android:label="@string/title_activity_thanh_vien_viet_bai" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.ThanhVien_qlBai"
+            android:label="@string/title_activity_thanh_vien_ql_bai" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.ThanhVien_taiKhoan"
+            android:label="@string/title_activity_thanh_vien_tai_khoan" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.ThanhVien_ChiTietBaiViet"
+            android:label="@string/title_activity_thanh_vien__chi_tiet_bai_viet" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.ThanhVien_Sua_baiViet"
+            android:label="@string/title_activity_thanh_vien__sua_bai_viet" >
+        </activity>
+        <activity
+            android:name="com.example.ddcn.ThanhVien_Sua_binhLuan"
+            android:label="@string/title_activity_thanh_vien__sua_binh_luan" >
+        </activity>
+    </application>
+
+</manifest>
